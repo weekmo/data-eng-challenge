@@ -8,7 +8,6 @@ Created on Mon Oct 17 23:34:20 2022
 import pandas as pd
 import requests
 from fastapi import FastAPI
-import numpy as np
 
 app = FastAPI()
 
@@ -25,3 +24,5 @@ with requests.get("http://api.worldbank.org/v2/country?per_page=1000&format=json
 
 df_countries2 = df_countries2[["iso2Code", "name", "capitalCity", "region.iso2code","region.value"]]
 df_countries2 = df_countries2[df_countries2["region.value"]!="Aggregates"]
+
+print(df_countries2["name"][df_countries2["region.iso2code"]=="ZG"])
