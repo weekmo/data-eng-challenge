@@ -1,0 +1,9 @@
+{
+	"links":[
+		{"countries":"http://api.worldbank.org/v2/country?per_page=1000"},
+		{"regions":"http://api.worldbank.org/v2/region"},
+		{"Land area":"http://api.worldbank.org/v2/country/BRA/indicator/AG.LND.TOTL.K2"},
+		{"Cereal yield":"http://api.worldbank.org/v2/country/BRA/indicator/AG.YLD.CREL.KG"},
+		{"Land under cereal production":"http://api.worldbank.org/v2/country/BRA/indicator/AG.LND.CREL.HA"},
+	]
+}

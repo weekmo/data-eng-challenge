@@ -1,0 +1,691 @@
+{
+    "rows": 10,
+    "os": 0,
+    "page": 1,
+    "total": 452432,
+    "documents": {
+        "D33918108": {
+            "id": "33918108",
+            "last_modified_date": "2022-10-14T00:00:00Z",
+            "admreg": "South Asia,South Asia",
+            "admreg_key": "119231,119231",
+            "authors": {
+                "0": {
+                    "author": "Chandralal Premakumara"
+                }
+            },
+            "count": "Sri Lanka",
+            "count_key": "82538",
+            "docna": {
+                "0": {
+                    "docna": "Sri Lanka - SOUTH ASIA- P151916- Early\n            Childhood Development Project - Procurement Plan"
+                }
+            },
+            "docty": "Procurement Plan",
+            "docty_key": "739941",
+            "owner": "Education SAR (HSAED)",
+            "projn": "LK-Early Childhood Development\n            Project-1335527 -- P151916",
+            "subsc": "Public Administration - Education,Early Childhood Education",
+            "trustfund": "TF0A0752-Sri Lanka - Supporting the\n            Preparation and Launch of Early Childhood De,TF0A9473-Sri Lanka: Support to\n            strengthen the early years services",
+            "trustfund_key": "1404697,1717244",
+            "theme": "Education for all,Other human development",
+            "prdln": "IBRD/IDA",
+            "prdln_key": "639266",
+            "seccl": "Public",
+            "lang": "English",
+            "lang_key": "120701",
+            "lndinstr": {
+                "0": {
+                    "lndinstr": "Investment Project Financing"
+                }
+            },
+            "lndinstr_key": "1353855",
+            "entityids": {
+                "entityid": "33918108"
+            },
+            "majtheme": "Human development",
+            "repnb": "STEP71034",
+            "docdt": "2022-10-15T00:00:00Z",
+            "datestored": "2022-10-15T00:00:00Z",
+            "majdocty": "Project Documents",
+            "majdocty_key": "658102",
+            "display_title": "Sri Lanka - SOUTH ASIA- P151916-\n            Early Childhood Development Project - Procurement Plan",
+            "disclosure_type": "NA",
+            "pdfurl": "http://documents.worldbank.org/curated/en/099405010152213028/pdf/P1519160969e6507a09ceb0417b9d91dae0.pdf",
+            "txturl": "http://documents.worldbank.org/curated/en/099405010152213028/text/P1519160969e6507a09ceb0417b9d91dae0.txt",
+            "listing_relative_url": "/projects/documents/2022/10/33918108/sri-lanka-south-asia--p151916--early-childhood-development-project-procurement-plan",
+            "url_friendly_title": "http://documents.worldbank.org/curated/en/099405010152213028/P1519160969e6507a09ceb0417b9d91dae0",
+            "new_url": "2022/10/33918108/P1519160969e6507a09ceb0417b9d91dae0",
+            "ext_pub_date": "2022-10-14T00:00:00Z",
+            "EnvironmentalCategory": "B",
+            "disclstat": "Disclosed",
+            "docm_id": "P151916-969e65bb-9b87-497a-9ceb-417b9d91dae0",
+            "chronical_docm_id": "P151916-969e65bb-9b87-497a-9ceb-417b9d91dae0",
+            "publishtoextweb_dt": "2022-10-14T00:00:00Z",
+            "versiontyp": "Final",
+            "versiontyp_key": "1309935",
+            "projectid": "P151916",
+            "guid": "099405010152213028",
+            "origu": "Education SAR (HSAED)",
+            "author_keys": {
+                "0": {
+                    "author_key": "NA"
+                }
+            },
+            "available_in": "English",
+            "fullavailablein": [],
+            "url": "http://documents.worldbank.org/curated/en/099405010152213028/P1519160969e6507a09ceb0417b9d91dae0"
+        },
+        "D33917047": {
+            "id": "33917047",
+            "last_modified_date": "2022-10-14T00:00:00Z",
+            "admreg": "South Asia,South Asia",
+            "admreg_key": "119231,119231",
+            "authors": {
+                "0": {
+                    "author": "Muhammad Farooq Azam"
+                }
+            },
+            "count": "Pakistan",
+            "count_key": "82507",
+            "docna": {
+                "0": {
+                    "docna": "Pakistan - SOUTH ASIA- P161386- Higher\n            Education Development in Pakistan - Procurement Plan"
+                }
+            },
+            "docty": "Procurement Plan",
+            "docty_key": "739941",
+            "owner": "Education SAR (HSAED)",
+            "projn": "PK-Higher Education Development In Pakistan\n            -- P161386",
+            "subsc": "ICT Infrastructure,ICT Services,Public Administration - Education,Adult, Basic and Continuing Education,Tertiary Education",
+            "trustfund": "TF0B5063-GIL Does Information on\n            Female-Friendliness of Workplace encourage wome",
+            "trustfund_key": "2008108",
+            "prdln": "IBRD/IDA",
+            "prdln_key": "639266",
+            "seccl": "Public",
+            "lang": "English",
+            "lang_key": "120701",
+            "lndinstr": {
+                "0": {
+                    "lndinstr": "Investment Project Financing"
+                }
+            },
+            "lndinstr_key": "1353855",
+            "entityids": {
+                "entityid": "33917047"
+            },
+            "repnb": "STEP70984",
+            "docdt": "2022-10-14T00:00:00Z",
+            "datestored": "2022-10-14T00:00:00Z",
+            "majdocty": "Project Documents",
+            "majdocty_key": "658102",
+            "display_title": "Pakistan - SOUTH ASIA- P161386-\n            Higher Education Development in Pakistan - Procurement Plan",
+            "disclosure_type": "NA",
+            "pdfurl": "http://documents.worldbank.org/curated/en/099745110142234278/pdf/P16138605339f80520b0310d9b271a3c206.pdf",
+            "txturl": "http://documents.worldbank.org/curated/en/099745110142234278/text/P16138605339f80520b0310d9b271a3c206.txt",
+            "listing_relative_url": "/projects/documents/2022/10/33917047/pakistan-south-asia--p161386--higher-education-development-pakistan-procurement-plan",
+            "url_friendly_title": "http://documents.worldbank.org/curated/en/099745110142234278/P16138605339f80520b0310d9b271a3c206",
+            "new_url": "2022/10/33917047/P16138605339f80520b0310d9b271a3c206",
+            "ext_pub_date": "2022-10-13T00:00:00Z",
+            "EnvironmentalCategory": "B",
+            "disclstat": "Disclosed",
+            "docm_id": "P161386-5339f856-4872-4f52-b031-d9b271a3c206",
+            "chronical_docm_id": "P161386-5339f856-4872-4f52-b031-d9b271a3c206",
+            "publishtoextweb_dt": "2022-10-13T00:00:00Z",
+            "versiontyp": "Final",
+            "versiontyp_key": "1309935",
+            "projectid": "P161386",
+            "guid": "099745110142234278",
+            "origu": "Education SAR (HSAED)",
+            "author_keys": {
+                "0": {
+                    "author_key": "NA"
+                }
+            },
+            "available_in": "English",
+            "fullavailablein": [],
+            "url": "http://documents.worldbank.org/curated/en/099745110142234278/P16138605339f80520b0310d9b271a3c206"
+        },
+        "D33917061": {
+            "id": "33917061",
+            "last_modified_date": "2022-10-14T00:00:00Z",
+            "admreg": "Europe and Central Asia,Europe and Central Asia",
+            "admreg_key": "119226,119226",
+            "authors": {
+                "0": {
+                    "author": "World Bank"
+                }
+            },
+            "count": "Western Balkans,South Eastern Europe and Balkans",
+            "count_key": "517208",
+            "docna": {
+                "0": {
+                    "docna": "PDNA - Извештај Општина Ариље : Елементарне\n            Непогоде - Јун 2019. Године"
+                }
+            },
+            "docty": "Report",
+            "docty_key": "540664",
+            "owner": "Urban ECA (SCAUR)",
+            "projn": "7B-Western Balkans Drm Program -- P165377",
+            "subsc": "Other Public Administration",
+            "trustfund": "TF0A8383-Western Balkans DRM Program,TF0A9065-EU-GFDRR Western Balkans DRM Program,TF0A9706-Energy Efficiency and Seismic Resilience",
+            "trustfund_key": "1675799,1698918,1726706",
+            "prdln": "Advisory Services & Analytics",
+            "prdln_key": "1416466",
+            "seccl": "Public",
+            "lang": "Serbian",
+            "lang_key": "781958",
+            "entityids": {
+                "entityid": "33917061"
+            },
+            "repnb": "177113",
+            "docdt": "2022-10-14T00:00:00Z",
+            "datestored": "2022-10-14T00:00:00Z",
+            "volnb": "1",
+            "majdocty": "Publications & Research",
+            "majdocty_key": "658101",
+            "display_title": "PDNA - Извештај Општина Ариље :\n            Елементарне Непогоде - Јун 2019. Године",
+            "disclosure_date": "2022-10-14T00:00:00Z",
+            "disclosure_type": "NA",
+            "pdfurl": "http://documents.worldbank.org/curated/en/099705010142275142/pdf/P16537706e13480800bc2905d22b6fdf42a.pdf",
+            "txturl": "http://documents.worldbank.org/curated/en/099705010142275142/text/P16537706e13480800bc2905d22b6fdf42a.txt",
+            "listing_relative_url": "/research/2022/10/33917061/pdna-извештај-општина-ариље-елементарне-непогоде-јун-2019-године",
+            "url_friendly_title": "http://documents.worldbank.org/curated/en/099705010142275142/P16537706e13480800bc2905d22b6fdf42a",
+            "new_url": "2022/10/33917061/P16537706e13480800bc2905d22b6fdf42a",
+            "ext_pub_date": "2022-10-14T00:00:00Z",
+            "disclstat": "Disclosed",
+            "topicv3": "Disaster Preparedness m1327179 1705,Disaster Risk Assessment m1327420 822,Natural Disaster m1503325 3138,Natural Disaster Response Kit m1503698 4183",
+            "docm_id": "P165377-6e13485f-3f6e-4e80-bc29-5d22b6fdf42a",
+            "chronical_docm_id": "P165377-6e13485f-3f6e-4e80-bc29-5d22b6fdf42a",
+            "publishtoextweb_dt": "2022-10-14T00:00:00Z",
+            "versiontyp": "Final",
+            "versiontyp_key": "1309935",
+            "projectid": "P165377",
+            "guid": "099705010142275142",
+            "origu": "GSU09 - Urban",
+            "author_keys": {
+                "0": {
+                    "author_key": "NA"
+                }
+            },
+            "available_in": "Serbian",
+            "fullavailablein": [],
+            "url": "http://documents.worldbank.org/curated/en/099705010142275142/P16537706e13480800bc2905d22b6fdf42a"
+        },
+        "D33917066": {
+            "id": "33917066",
+            "last_modified_date": "2022-10-14T00:00:00Z",
+            "admreg": "Europe and Central Asia,Europe and Central Asia",
+            "admreg_key": "119226,119226",
+            "authors": {
+                "0": {
+                    "author": "World Bank"
+                }
+            },
+            "count": "Western Balkans,South Eastern Europe and Balkans",
+            "count_key": "517208",
+            "docna": {
+                "0": {
+                    "docna": "Understanding Risk - Balkans Conference :\n            Proceedings from the UR Balkans Conference"
+                }
+            },
+            "docty": "Report",
+            "docty_key": "540664",
+            "owner": "Urban ECA (SCAUR)",
+            "projn": "7B-Western Balkans Drm Program -- P165377",
+            "subsc": "Other Public Administration",
+            "trustfund": "TF0A8383-Western Balkans DRM Program,TF0A9065-EU-GFDRR Western Balkans DRM Program,TF0A9706-Energy Efficiency and Seismic Resilience",
+            "trustfund_key": "1675799,1698918,1726706",
+            "prdln": "Advisory Services & Analytics",
+            "prdln_key": "1416466",
+            "seccl": "Public",
+            "lang": "English",
+            "lang_key": "120701",
+            "entityids": {
+                "entityid": "33917066"
+            },
+            "repnb": "177114",
+            "docdt": "2022-10-14T00:00:00Z",
+            "datestored": "2022-10-14T00:00:00Z",
+            "volnb": "1",
+            "majdocty": "Publications & Research",
+            "majdocty_key": "658101",
+            "abstracts": {
+                "cdata!": "Understanding Risk (UR) is an open\n            and global community of over 8,000 experts and practitioners\n            interested and active in the creation, communication, and\n            use of disaster risk information. This vibrant community, a\n            diverse group of people from the private, public, nonprofit,\n            technology, and financial sectors meets at the UR global\n            forum every two years. Each iteration of the UR Forum has\n            produced new ideas and partnerships that have improved risk\n            information and helped to integrate evidence into policy\n            making and development planning. Jointly organized by the\n            Government of Serbia, the World Bank, and the Global\n            Facility for Disaster Reduction and Recovery (GFDRR), and\n            with financial support from the European Union (EU) in the\n            frame of the EU-World Bank/GFDRR Western Balkans Disaster\n            Risk Management Program, the conference was hosted in\n            Belgrade, a charming city that has been torn and ruptured by\n            disasters, yet perpetually strives to recover and rebuild as\n            a resilient community. Against this backdrop, a conference\n            dedicated to disaster risk management (DRM) echoes the\n            region’s urgent need for a better understanding of disaster.\n            This publication captures the experiences, lessons, and best\n            practices in the field discussed at the Understanding Risk\n            Balkans Conference, held in Belgrade, Serbia, from September\n            17 to 19, 2018."
+            },
+            "display_title": "Understanding Risk - Balkans\n            Conference : Proceedings from the UR Balkans Conference",
+            "disclosure_date": "2022-10-14T00:00:00Z",
+            "disclosure_type": "NA",
+            "pdfurl": "http://documents.worldbank.org/curated/en/099700110142241683/pdf/P1653770a243e40d10a3fc06934851a4bfe.pdf",
+            "txturl": "http://documents.worldbank.org/curated/en/099700110142241683/text/P1653770a243e40d10a3fc06934851a4bfe.txt",
+            "listing_relative_url": "/research/2022/10/33917066/understanding-risk-balkans-conference-proceedings-ur-balkans-conference",
+            "url_friendly_title": "http://documents.worldbank.org/curated/en/099700110142241683/P1653770a243e40d10a3fc06934851a4bfe",
+            "new_url": "2022/10/33917066/P1653770a243e40d10a3fc06934851a4bfe",
+            "ext_pub_date": "2022-10-14T00:00:00Z",
+            "disclstat": "Disclosed",
+            "topicv3": "Disaster Risk Management m1326682 820,Natural Disaster m1503325 3138,Natural Disaster Response Kit m1503698 4183",
+            "docm_id": "P165377-a243e45a-e99b-4dd1-a3fc-6934851a4bfe",
+            "chronical_docm_id": "P165377-a243e45a-e99b-4dd1-a3fc-6934851a4bfe",
+            "publishtoextweb_dt": "2022-10-14T00:00:00Z",
+            "versiontyp": "Final",
+            "versiontyp_key": "1309935",
+            "projectid": "P165377",
+            "guid": "099700110142241683",
+            "origu": "GSU09 - Urban",
+            "author_keys": {
+                "0": {
+                    "author_key": "NA"
+                }
+            },
+            "available_in": "English",
+            "fullavailablein": [],
+            "url": "http://documents.worldbank.org/curated/en/099700110142241683/P1653770a243e40d10a3fc06934851a4bfe"
+        },
+        "D33917543": {
+            "id": "33917543",
+            "last_modified_date": "2022-10-14T00:00:00Z",
+            "admreg": "Europe and Central Asia,Europe and Central Asia",
+            "admreg_key": "119226,119226",
+            "authors": {
+                "0": {
+                    "author": "World Bank"
+                }
+            },
+            "count": "Western Balkans,South Eastern Europe and Balkans",
+            "count_key": "517208",
+            "docna": {
+                "0": {
+                    "docna": "PDNA - Извештај Општине Свилајнац :\n            Елементарне Непогоде - Јун 2019. Године"
+                }
+            },
+            "docty": "Report",
+            "docty_key": "540664",
+            "owner": "Urban ECA (SCAUR)",
+            "projn": "7B-Western Balkans Drm Program -- P165377",
+            "subsc": "Other Public Administration",
+            "trustfund": "TF0A8383-Western Balkans DRM Program,TF0A9065-EU-GFDRR Western Balkans DRM Program,TF0A9706-Energy Efficiency and Seismic Resilience",
+            "trustfund_key": "1675799,1698918,1726706",
+            "prdln": "Advisory Services & Analytics",
+            "prdln_key": "1416466",
+            "seccl": "Public",
+            "lang": "Serbian",
+            "lang_key": "781958",
+            "entityids": {
+                "entityid": "33917543"
+            },
+            "repnb": "177123",
+            "docdt": "2022-10-14T00:00:00Z",
+            "datestored": "2022-10-14T00:00:00Z",
+            "volnb": "1",
+            "majdocty": "Publications & Research",
+            "majdocty_key": "658101",
+            "display_title": "PDNA - Извештај Општине Свилајнац\n            : Елементарне Непогоде - Јун 2019. Године",
+            "disclosure_date": "2022-10-14T00:00:00Z",
+            "disclosure_type": "NA",
+            "pdfurl": "http://documents.worldbank.org/curated/en/099706110142221071/pdf/P1653770f40cb80c40b6c00323d9ee37054.pdf",
+            "txturl": "http://documents.worldbank.org/curated/en/099706110142221071/text/P1653770f40cb80c40b6c00323d9ee37054.txt",
+            "listing_relative_url": "/research/2022/10/33917543/pdna-извештај-општине-свилајнац-елементарне-непогоде-јун-2019-године",
+            "url_friendly_title": "http://documents.worldbank.org/curated/en/099706110142221071/P1653770f40cb80c40b6c00323d9ee37054",
+            "new_url": "2022/10/33917543/P1653770f40cb80c40b6c00323d9ee37054",
+            "ext_pub_date": "2022-10-14T00:00:00Z",
+            "disclstat": "Disclosed",
+            "topicv3": "Disaster Preparedness m1327179 1705,Disaster Risk Assessment m1327420 822,Natural Disaster m1503325 3138",
+            "docm_id": "P165377-f40cb84f-2b68-42c4-b6c0-323d9ee37054",
+            "chronical_docm_id": "P165377-f40cb84f-2b68-42c4-b6c0-323d9ee37054",
+            "publishtoextweb_dt": "2022-10-14T00:00:00Z",
+            "versiontyp": "Final",
+            "versiontyp_key": "1309935",
+            "projectid": "P165377",
+            "guid": "099706110142221071",
+            "origu": "GSU09 - Urban",
+            "author_keys": {
+                "0": {
+                    "author_key": "NA"
+                }
+            },
+            "available_in": "Serbian",
+            "fullavailablein": [],
+            "url": "http://documents.worldbank.org/curated/en/099706110142221071/P1653770f40cb80c40b6c00323d9ee37054"
+        },
+        "D33917618": {
+            "id": "33917618",
+            "last_modified_date": "2022-10-14T00:00:00Z",
+            "admreg": "Eastern and Southern Africa,Eastern and Southern Africa",
+            "admreg_key": "1927319,1927319",
+            "authors": {
+                "0": {
+                    "author": "Sospeter Gitonga"
+                }
+            },
+            "count": "Eastern and Southern Africa,Eastern Africa",
+            "count_key": "1927319,517193",
+            "docna": {
+                "0": {
+                    "docna": "Eastern and Southern Africa - EASTERN AND\n            SOUTHERN AFRICA- P161305- Horn of Africa Gateway Development\n            Project - Procurement Plan"
+                }
+            },
+            "docty": "Procurement Plan",
+            "docty_key": "739941",
+            "owner": "Transport-East Africa (IAET1)",
+            "projn": "3E-Horn Of Africa Gateway Development\n            Project -- P161305",
+            "subsc": "Rural and Inter-Urban Roads,ICT Infrastructure,Public Administration - Transportation",
+            "trustfund": "TF0B8553-BIGRS Road Safety Support to Kenya",
+            "trustfund_key": "2166784",
+            "prdln": "IBRD/IDA",
+            "prdln_key": "639266",
+            "seccl": "Public",
+            "lang": "English",
+            "lang_key": "120701",
+            "lndinstr": {
+                "0": {
+                    "lndinstr": "Investment Project Financing"
+                }
+            },
+            "lndinstr_key": "1353855",
+            "entityids": {
+                "entityid": "33917618"
+            },
+            "repnb": "STEP70996",
+            "docdt": "2022-10-14T00:00:00Z",
+            "datestored": "2022-10-14T00:00:00Z",
+            "majdocty": "Project Documents",
+            "majdocty_key": "658102",
+            "display_title": "Eastern and Southern Africa -\n            EASTERN AND SOUTHERN AFRICA- P161305- Horn of Africa Gateway\n            Development Project - Procurement Plan",
+            "disclosure_type": "NA",
+            "pdfurl": "http://documents.worldbank.org/curated/en/099930010142236806/pdf/P1613050b628be0dc0ad9f0ecb3e2db0a2a.pdf",
+            "txturl": "http://documents.worldbank.org/curated/en/099930010142236806/text/P1613050b628be0dc0ad9f0ecb3e2db0a2a.txt",
+            "listing_relative_url": "/projects/documents/2022/10/33917618/eastern-southern-africa-eastern-southern-africa--p161305--horn-africa-gateway-development-project-procurement-plan",
+            "url_friendly_title": "http://documents.worldbank.org/curated/en/099930010142236806/P1613050b628be0dc0ad9f0ecb3e2db0a2a",
+            "new_url": "2022/10/33917618/P1613050b628be0dc0ad9f0ecb3e2db0a2a",
+            "ext_pub_date": "2022-10-13T00:00:00Z",
+            "EnvironmentalCategory": "A",
+            "disclstat": "Disclosed",
+            "docm_id": "P161305-b628be27-4f3f-4cdc-ad9f-ecb3e2db0a2a",
+            "chronical_docm_id": "P161305-b628be27-4f3f-4cdc-ad9f-ecb3e2db0a2a",
+            "publishtoextweb_dt": "2022-10-13T00:00:00Z",
+            "versiontyp": "Final",
+            "versiontyp_key": "1309935",
+            "projectid": "P161305",
+            "guid": "099930010142236806",
+            "origu": "Transport-East Africa (IAET1)",
+            "author_keys": {
+                "0": {
+                    "author_key": "NA"
+                }
+            },
+            "available_in": "English",
+            "fullavailablein": [],
+            "url": "http://documents.worldbank.org/curated/en/099930010142236806/P1613050b628be0dc0ad9f0ecb3e2db0a2a"
+        },
+        "D33917680": {
+            "id": "33917680",
+            "last_modified_date": "2022-10-14T00:00:00Z",
+            "admreg": "East Asia and Pacific,East Asia and Pacific",
+            "admreg_key": "119225,119225",
+            "authors": {
+                "0": {
+                    "author": "Wang,Xueman"
+                }
+            },
+            "count": "China",
+            "count_key": "82628",
+            "docna": {
+                "0": {
+                    "docna": "Disclosable Version of the ISR - Sichuan\n            Chongqing Cooperation: Guang'an Demonstration Area\n            Infrastructure Development Project - P133456 - Sequence No : 15"
+                }
+            },
+            "docty": "Implementation Status and Results Report",
+            "docty_key": "791001",
+            "owner": "Urban EAP 2 (SEAU2)",
+            "projn": "CN-Sichuan Chongqing Cooperation:\n            Guang'An Demonstration Area Infr -- P133456",
+            "subsc": "Urban Transport,Other Water Supply, Sanitation and Waste Management,Sub-National Government,Workforce Development/Skills",
+            "theme": "City-wide Infrastructure and Service Delivery,Infrastructure services for private sector development,Pollution management and environmental health,Education for the knowledge economy,Urban Economic Development",
+            "prdln": "IBRD/IDA",
+            "prdln_key": "639266",
+            "seccl": "Public",
+            "lang": "English",
+            "lang_key": "120701",
+            "lndinstr": {
+                "0": {
+                    "lndinstr": "Investment Project Financing"
+                }
+            },
+            "lndinstr_key": "1353855",
+            "entityids": {
+                "entityid": "33917680"
+            },
+            "majtheme": "Urban development,Human development,Environment and natural resource management,Financial and private sector development",
+            "repnb": "ISR52555",
+            "docdt": "2022-10-14T00:00:00Z",
+            "datestored": "2022-10-14T00:00:00Z",
+            "majdocty": "Project Documents",
+            "majdocty_key": "658102",
+            "display_title": "Disclosable Version of the ISR -\n            Sichuan Chongqing Cooperation: Guang'an Demonstration\n            Area Infrastructure Development Project - P133456 - Sequence\n            No : 15",
+            "disclosure_type": "NA",
+            "pdfurl": "http://documents.worldbank.org/curated/en/099125010142231295/pdf/P1334560dcac940440bcc1099f2b1861b97.pdf",
+            "txturl": "http://documents.worldbank.org/curated/en/099125010142231295/text/P1334560dcac940440bcc1099f2b1861b97.txt",
+            "listing_relative_url": "/projects/documents/2022/10/33917680/disclosable-version-isr-sichuan-chongqing-cooperation-guangan-demonstration-area-infrastructure-development-project-p133456-sequence-no-15",
+            "url_friendly_title": "http://documents.worldbank.org/curated/en/099125010142231295/P1334560dcac940440bcc1099f2b1861b97",
+            "new_url": "2022/10/33917680/P1334560dcac940440bcc1099f2b1861b97",
+            "ext_pub_date": "2022-10-13T00:00:00Z",
+            "EnvironmentalCategory": "A",
+            "disclstat": "Disclosed",
+            "docm_id": "P133456-dcac94a0-6cf1-4344-bcc1-99f2b1861b97",
+            "chronical_docm_id": "P133456-dcac94a0-6cf1-4344-bcc1-99f2b1861b97",
+            "publishtoextweb_dt": "2022-10-13T00:00:00Z",
+            "versiontyp": "Final",
+            "versiontyp_key": "1309935",
+            "projectid": "P133456",
+            "guid": "099125010142231295",
+            "origu": "China & Mongolia Sustainable Dev (EASCS)",
+            "author_keys": {
+                "0": {
+                    "author_key": "809024"
+                }
+            },
+            "available_in": "English",
+            "fullavailablein": [],
+            "url": "http://documents.worldbank.org/curated/en/099125010142231295/P1334560dcac940440bcc1099f2b1861b97"
+        },
+        "D33917736": {
+            "id": "33917736",
+            "last_modified_date": "2022-10-14T00:00:00Z",
+            "admreg": "Europe and Central Asia,Europe and Central Asia",
+            "admreg_key": "119226,119226",
+            "authors": {
+                "0": {
+                    "author": "World Bank"
+                }
+            },
+            "count": "Western Balkans,South Eastern Europe and Balkans",
+            "count_key": "517208",
+            "docna": {
+                "0": {
+                    "docna": "PDNA - Извештај Општине Ћуприја :\n            Елементарне Непогоде - Јун 2019. Године"
+                }
+            },
+            "docty": "Report",
+            "docty_key": "540664",
+            "owner": "Urban ECA (SCAUR)",
+            "projn": "7B-Western Balkans Drm Program -- P165377",
+            "subsc": "Other Public Administration",
+            "trustfund": "TF0A8383-Western Balkans DRM Program,TF0A9065-EU-GFDRR Western Balkans DRM Program,TF0A9706-Energy Efficiency and Seismic Resilience",
+            "trustfund_key": "1675799,1698918,1726706",
+            "prdln": "Advisory Services & Analytics",
+            "prdln_key": "1416466",
+            "seccl": "Public",
+            "lang": "Serbian",
+            "lang_key": "781958",
+            "entityids": {
+                "entityid": "33917736"
+            },
+            "repnb": "177131",
+            "docdt": "2022-10-14T00:00:00Z",
+            "datestored": "2022-10-14T00:00:00Z",
+            "volnb": "1",
+            "majdocty": "Publications & Research",
+            "majdocty_key": "658101",
+            "display_title": "PDNA - Извештај Општине Ћуприја :\n            Елементарне Непогоде - Јун 2019. Године",
+            "disclosure_date": "2022-10-14T00:00:00Z",
+            "disclosure_type": "NA",
+            "pdfurl": "http://documents.worldbank.org/curated/en/099706410142242213/pdf/P1653770660e590980b0b40e16a0508f4e3.pdf",
+            "txturl": "http://documents.worldbank.org/curated/en/099706410142242213/text/P1653770660e590980b0b40e16a0508f4e3.txt",
+            "listing_relative_url": "/research/2022/10/33917736/pdna-извештај-општине-ћуприја-елементарне-непогоде-јун-2019-године",
+            "url_friendly_title": "http://documents.worldbank.org/curated/en/099706410142242213/P1653770660e590980b0b40e16a0508f4e3",
+            "new_url": "2022/10/33917736/P1653770660e590980b0b40e16a0508f4e3",
+            "ext_pub_date": "2022-10-14T00:00:00Z",
+            "disclstat": "Disclosed",
+            "topicv3": "Disaster Preparedness m1327179 1705,Disaster Risk Assessment m1327420 822,Natural Disaster m1503325 3138",
+            "docm_id": "P165377-660e593a-a9c3-4798-b0b4-e16a0508f4e3",
+            "chronical_docm_id": "P165377-660e593a-a9c3-4798-b0b4-e16a0508f4e3",
+            "publishtoextweb_dt": "2022-10-14T00:00:00Z",
+            "versiontyp": "Final",
+            "versiontyp_key": "1309935",
+            "projectid": "P165377",
+            "guid": "099706410142242213",
+            "origu": "GSU09 - Urban",
+            "author_keys": {
+                "0": {
+                    "author_key": "NA"
+                }
+            },
+            "available_in": "Serbian",
+            "fullavailablein": [],
+            "url": "http://documents.worldbank.org/curated/en/099706410142242213/P1653770660e590980b0b40e16a0508f4e3"
+        },
+        "D33917804": {
+            "id": "33917804",
+            "last_modified_date": "2022-10-14T00:00:00Z",
+            "admreg": "East Asia and Pacific,East Asia and Pacific",
+            "admreg_key": "119225,119225",
+            "authors": {
+                "0": {
+                    "author": "Workie,Netsanet Walelign"
+                }
+            },
+            "count": "Kiribati",
+            "count_key": "82561",
+            "docna": {
+                "0": {
+                    "docna": "Disclosable Version of the ISR - Kiribati\n            Health Systems Strengthening Project - P176306 - Sequence No\n            : 01"
+                }
+            },
+            "docty": "Implementation Status and Results Report",
+            "docty_key": "791001",
+            "owner": "Health Nutrition &Population EAP (HEAHN)",
+            "projn": "KI-Kiribati Health Systems Strengthening\n            Project -- P176306",
+            "prdln": "IBRD/IDA",
+            "prdln_key": "639266",
+            "seccl": "Public",
+            "lang": "English",
+            "lang_key": "120701",
+            "lndinstr": {
+                "0": {
+                    "lndinstr": "Investment Project Financing"
+                }
+            },
+            "lndinstr_key": "1353855",
+            "entityids": {
+                "entityid": "33917804"
+            },
+            "repnb": "ISR52872",
+            "docdt": "2022-10-14T00:00:00Z",
+            "datestored": "2022-10-14T00:00:00Z",
+            "majdocty": "Project Documents",
+            "majdocty_key": "658102",
+            "display_title": "Disclosable Version of the ISR -\n            Kiribati Health Systems Strengthening Project - P176306 -\n            Sequence No : 01",
+            "disclosure_type": "NA",
+            "pdfurl": "http://documents.worldbank.org/curated/en/099145010142224059/pdf/P17630601972c409d0889b00098accb88fa.pdf",
+            "txturl": "http://documents.worldbank.org/curated/en/099145010142224059/text/P17630601972c409d0889b00098accb88fa.txt",
+            "listing_relative_url": "/projects/documents/2022/10/33917804/disclosable-version-isr-kiribati-health-systems-strengthening-project-p176306-sequence-no-01",
+            "url_friendly_title": "http://documents.worldbank.org/curated/en/099145010142224059/P17630601972c409d0889b00098accb88fa",
+            "new_url": "2022/10/33917804/P17630601972c409d0889b00098accb88fa",
+            "ext_pub_date": "2022-10-13T00:00:00Z",
+            "disclstat": "Disclosed",
+            "docm_id": "P176306-1972c4c8-1ab3-429d-889b-0098accb88fa",
+            "chronical_docm_id": "P176306-1972c4c8-1ab3-429d-889b-0098accb88fa",
+            "publishtoextweb_dt": "2022-10-13T00:00:00Z",
+            "versiontyp": "Final",
+            "versiontyp_key": "1309935",
+            "projectid": "P176306",
+            "guid": "099145010142224059",
+            "author_keys": {
+                "0": {
+                    "author_key": "862347"
+                }
+            },
+            "available_in": "English",
+            "fullavailablein": [],
+            "url": "http://documents.worldbank.org/curated/en/099145010142224059/P17630601972c409d0889b00098accb88fa"
+        },
+        "D33917828": {
+            "id": "33917828",
+            "last_modified_date": "2022-10-14T00:00:00Z",
+            "admreg": "Eastern and Southern Africa,Eastern and Southern Africa",
+            "admreg_key": "1927319,1927319",
+            "authors": {
+                "0": {
+                    "author": "LEGKL"
+                }
+            },
+            "count": "Ethiopia",
+            "count_key": "82611",
+            "docna": {
+                "0": {
+                    "docna": "Official Documents- Grant Agreement for\n            Additional Financing for UPSNP MDTF Grant TF0B8808 and\n            MDTF-FD Grant TF0B8764.pdf"
+                }
+            },
+            "docty": "Grant or Trust Fund Agreement",
+            "docty_key": "540630",
+            "owner": "Social Protection & Labor AFR 1 (HAES1)",
+            "projn": "ET-Urban Productive Safety Net And Jobs\n            Project -- P169943",
+            "subsc": "Workforce Development/Skills,Public Administration - Social Protection,Social Protection",
+            "trustfund": "TF0B4817-ET UPSNJP G2Px, phase 1,TF0B5060-Ethiopia Urban Productive\n            Safety Net and Jobs Project,TF0B6039-SPF: Gender Sensitive Refugee\n            and Host Integration in Ethiopia,TF0B7561-R19 Using Technology to Make\n            Ethiopiaâs Labor Market Work for Youn,TF0B8346-Implementation and M&E\n            support for piloting IDP inclusion in the Urban,TF0B8509-R19 National Digital Jobseeker\n            Tools for Gender Equity, Social Inclusio,TF0B8764-RE - Piloting the targeting and\n            inclusion of IDPs in Ethiopiaâs Ur,TF0B8808-Additional Financing to the\n            Urban Productive Safety Net and Jobs Projec",
+            "trustfund_key": "1992642,2007234,2054514,2116288,2156349,2164381,2176667,2179273",
+            "prdln": "IBRD/IDA",
+            "prdln_key": "639266",
+            "seccl": "Public",
+            "lang": "English",
+            "lang_key": "120701",
+            "lndinstr": {
+                "0": {
+                    "lndinstr": "Investment Project Financing"
+                }
+            },
+            "lndinstr_key": "1353855",
+            "entityids": {
+                "entityid": "33917828"
+            },
+            "docdt": "2022-10-14T00:00:00Z",
+            "datestored": "2022-10-14T00:00:00Z",
+            "majdocty": "Project Documents",
+            "majdocty_key": "658102",
+            "display_title": "Official Documents- Grant\n            Agreement for Additional Financing for UPSNP MDTF Grant\n            TF0B8808 and MDTF-FD Grant TF0B8764.pdf",
+            "disclosure_type": "NA",
+            "pdfurl": "http://documents.worldbank.org/curated/en/099250010142282694/pdf/P1699430af81320280a6b50947b53f6c5b6.pdf",
+            "txturl": "http://documents.worldbank.org/curated/en/099250010142282694/text/P1699430af81320280a6b50947b53f6c5b6.txt",
+            "listing_relative_url": "/projects/documents/2022/10/33917828/official-documents--grant-agreement-additional-financing-upsnp-mdtf-grant-tf0b8808-mdtf-fd-grant-tf0b8764pdf",
+            "url_friendly_title": "http://documents.worldbank.org/curated/en/099250010142282694/P1699430af81320280a6b50947b53f6c5b6",
+            "new_url": "2022/10/33917828/P1699430af81320280a6b50947b53f6c5b6",
+            "ext_pub_date": "2022-10-14T00:00:00Z",
+            "disclstat": "Disclosed",
+            "docm_id": "P169943-af813282-3f36-4928-a6b5-947b53f6c5b6",
+            "chronical_docm_id": "P169943-af813282-3f36-4928-a6b5-947b53f6c5b6",
+            "publishtoextweb_dt": "2022-10-14T00:00:00Z",
+            "versiontyp": "Buff cover",
+            "versiontyp_key": "1309937",
+            "projectid": "P169943",
+            "guid": "099250010142282694",
+            "origu": "MAS Upstream E/S Afr & Nigeria (CM3EU)",
+            "author_keys": {
+                "0": {
+                    "author_key": "NA"
+                }
+            },
+            "available_in": "English",
+            "fullavailablein": [],
+            "url": "http://documents.worldbank.org/curated/en/099250010142282694/P1699430af81320280a6b50947b53f6c5b6"
+        },
+        "facets": {}
+    }
+}
