@@ -1,72 +1,62 @@
 import dash
-from dash import html, dcc, callback, Input, Output
+from dash import  dcc, callback, Input, Output, State
 import plotly.express as px
 import pandas as pd
+from modules.utils import get_reg_country_dict, get_layout,get_data_from_api
 
-df_countries = pd.read_json("http://127.0.0.1:8000/countrieswithcode")
-df_countries.sort_values(by=['name'], inplace=True)
+reg_country_dict = get_reg_country_dict()
 
-countries_hash = {country['iso2Code']: country['name'] for _,country in df_countries.iterrows()}
-countryisocode = list(countries_hash.keys())[0]
+page_name = "Agricultural Land Curface"
 
-data_frame = pd.read_json(f"http://127.0.0.1:8000/agro-surface/{countryisocode}")
-max_year = data_frame['date'].max()
-min_year = data_frame['date'].min()
-
-
-del df_countries
-page_name = "Country's Agricultural Land Curface"
-
-dash.register_page(__name__, name=page_name)
-
-
-
-layout = html.Div(children=[
-    #html.H5(children=page_name),
-    
-    html.Div(children=[
-        dcc.Dropdown(
-            [{'label':val,'value':key} for key,val in countries_hash.items()],
-            id="countries-drop",
-            clearable=False,
-            value=countryisocode
-        )
-    ]),
-    html.Div(children=[
-        dcc.Graph(id='agro-land-line-graph')#,
-            #figure=px.line(data_frame, x="date", y="value", markers=True,title=f"{countries_hash[countryisocode]}'s Agricultural Land Curface"))
-    ]),
-    dcc.RangeSlider(min_year,max_year,1, id='year-range-slider', marks={i:{'label':f'{i}'} for i in range(min_year,max_year)}),
-    html.Br()
-])
+dash.register_page(__name__, name=page_name, suppress_callback_exceptions=True, path="/")
+suffix = "agro-land"
+layout = get_layout(suffix)
 
 @callback(
-    Output("agro-land-line-graph", "figure"),
-    Input("countries-drop", "value")
+    Output("countries-drop-agro-land","options"),
+    Output("countries-drop-agro-land","value"),
+    Input("region-drop-agro-land","value")
 )
-def update_line_graph(selected_country):
-    data_frame_update = pd.read_json(f"http://127.0.0.1:8000/agro-surface/{selected_country}")
-    fig = px.line(data_frame_update, x="date", y="value", 
-        title=f"{countries_hash[selected_country]}'s Agricultural Land Curface", 
-        markers=True,
-        #log_y=True
-    )
-    #fig.update_traces(textposition="bottom right")
-    fig.update_layout(transition_duration=500,
-        xaxis_title='Years',
-        yaxis_title='Agricultural Land Curface (in sq. km)')
-    """
-    max_year = data_frame["date"].max()
-    min_year = data_frame["date"].min()
+def get_countries_by_region(region):
+    countries = reg_country_dict[0][region]
+    first_country_in_reg = list(countries.keys())[0]
+    return countries,first_country_in_reg
+
+@callback(
+    Output("container-div-agro-land","children"),
+    Output("store-dataframe-agro-land","data"),
+    Input("countries-drop-agro-land", "value")
+)
+def update_line_graph_by_country(selected_country):
+    data_frame_update = get_data_from_api(suffix,selected_country)
+    max_year = data_frame_update["date_year"].max()
+    min_year = data_frame_update["date_year"].min()
     range_slider = dcc.RangeSlider(
-        id="year-range-slider1",
+        id="year-range-slider-agro-land",
         min=min_year,
         max=max_year,
         step=1,
-        value=[min_year,max_year]
+        value=[min_year,max_year],
+        marks={i:{'label':f"{i}"} for i in range(min_year,max_year,5)}
         )
-        """
-    return fig
+    return range_slider, data_frame_update.to_json()
 
-def get_data_df(url):
-    data_frame = pd.read_json(url)
+
+@callback(
+    Output("line-graph-agro-land", "figure"),
+    State("store-dataframe-agro-land","data"),
+    Input("year-range-slider-agro-land", "value")
+)
+
+def get_data(stored_dataframe, years=None):
+    data_frame_from_store = pd.read_json(stored_dataframe)
+    data_frame_from_store = data_frame_from_store[data_frame_from_store["date_year"].between(years[0],years[1])]
+    fig = px.line(data_frame_from_store, x="date_year", y="agro_srfc", 
+        title=page_name, 
+        markers=True,
+    )
+    fig.update_layout(transition_duration=500,
+        xaxis_title='Years',
+        yaxis_title='Agricultural Land Curface (in sq. km)')
+
+    return fig

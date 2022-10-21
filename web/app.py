@@ -5,27 +5,32 @@ Created on Tue Oct 18 14:42:12 2022
 @author: HassaM3
 """
 
-import datetime
 import dash
-from dash import Dash, html, dcc
-#import dash_bootstrap_components as dbc
+from dash import dcc, html
+import dash_bootstrap_components as dbc
+import datetime
 
 external_scripts = [
     "https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js",
 ]
 
-external_stylesheets = [
-    "https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"
-]
-
-app = Dash(__name__, 
+app = dash.Dash(__name__, 
     use_pages=True,
     external_scripts=external_scripts,
-    external_stylesheets=external_stylesheets)
+    external_stylesheets=[dbc.themes.BOOTSTRAP],
+    suppress_callback_exceptions=True)
 app.title = "World Bank Data analysis"
 
+nav_dict = {
+    "/":"Agricultural Land Curface",
+    "/cereal-land":"Cereal Land",
+    "/cereal-yield":"Cereal Yield",
+    "/analysis":"Data Analysis"
+}
+
 app.layout = html.Div([
-    html.Nav([html.A(f"{page['name']}", href=page["relative_path"], className="nav-link", style={"color": "#FFFFFF"} ) for page in dash.page_registry.values()],className="navbar navbar-dark bg-primary h4"),
+    #html.Nav([html.A(f"{page['name']}", href=page["relative_path"], className="nav-link", style={"color": "#FFFFFF"} ) for page in dash.page_registry.values()],className="navbar navbar-dark bg-primary h4"),
+    html.Nav([html.A(val, href=key, className="nav-link", style={"color": "#FFFFFF"} ) for key,val in nav_dict.items()],className="navbar navbar-dark bg-primary h4"),
     #html.H1('World Bank Data analysis'), navbar-dark bg-primary, style={"color": "#FFFFFF"}
     dash.page_container,
     html.Br(),
